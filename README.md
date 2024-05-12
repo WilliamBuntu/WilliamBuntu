@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning PostgreSQL<br>🎯 Goals: Building High-Quality Software.<br>🎲 Fun fact: I'm funny</p>
+<p align="left">✨ solving bugs since 2020<br>📚 I'm currently learning Next<br>🎯 Goals: Building High-Quality Software.<br>🎲 Fun fact: I'm cool</p>
 
 ###
 
