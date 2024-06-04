@@ -5,7 +5,10 @@
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamBuntu&show_icons=true&locale=en&theme=dracula" alt="WilliamBuntu" style="width: 320px; height: 150px; margin-top: -10px;" />
+
+  
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamBuntu)](https://github.com/WilliamBuntu/github-readme-stats)
 
 ###
 
