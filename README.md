@@ -6,6 +6,19 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamBuntu&hide=prs&show_icons=true&locale=en&theme=transparent" alt="WilliamBuntu" style="width: 320px; height: 150px; margin-top: -10px;" />
 
+<picture>
+  
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=WilliamBuntu&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aWilliamBuntu&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WilliamBuntu&show_icons=true" />
+</picture>
+
 
   
 </div>
