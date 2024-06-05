@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">A Software Engineer from Rwanda</h3>
+<h3 align="center">A Software Tester QA</h3>
 
 ###
 
