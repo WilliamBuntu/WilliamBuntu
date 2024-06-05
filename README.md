@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">✨ solving bugs since 2020<br>📚 I'm currently learning Playwright & Flutter <br>🎯 Goals: Building High-Quality Software.<br>🎲 Fun fact: I'm cool</p>
+<p align="left">✨ solving bugs since 2020<br>📚 I'm currently learning Playwright & Flutter <br>🎯 Goals: Building High-Quality Software.<br>🎲 Fevourite tv show: Peaky Blinders</p>
 
 ###
 
