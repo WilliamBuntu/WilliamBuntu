@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William</h1>
+<h1 align="center">Hello!! 👋, I'm William</h1>
 <h3 align="center">A Software Tester QA</h3>
 
 ###
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">✨ solving bugs since 2020<br>📚 I'm currently learning Playwright & Flutter <br>🎯 Goals: Building High-Quality Software.<br>🎲 Fevourite tv show: Peaky Blinders</p>
+<p align="left">✨ solving bugs since 2020<br>📚 I'm currently learning Playwright & Flutter <br>🎯 Goals: Deliver High-Quality Software.<br>🎲 Fevourite tv show: Peaky Blinders</p>
 
 ###
 
