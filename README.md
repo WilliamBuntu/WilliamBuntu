@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">✨ solving bugs since 2020<br>📚 I'm currently learning Playwright & Flutter <br>🎯 Goals: Deliver High-Quality Software.<br>🎲 Fevourite Tv Show: Peaky Blinders</p>
+<p align="left">✨ Coding since 2020<br>📚 I'm currently learning Playwright & Flutter <br>🎯 Goals: Deliver High-Quality Software.<br>🎲 Fevourite Tv Show: Peaky Blinders</p>
 
 ###
 
