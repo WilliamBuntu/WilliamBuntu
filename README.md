@@ -26,7 +26,7 @@
 
 ![](https://komarev.com/ghpvc/?username=WilliamBuntu0&color=brightgreen&style=for-the-badge&label=PROFILE+VISITS)
 
-![Buntu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamBuntu&theme=radical&show_icons=true&hide_border=true&layout=compact) <br>
+![Buntu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamBuntu&theme=radical&show_icons=true&hide_border=true&layout=pie) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WilliamBuntu&theme=dark&hide_border=true)<br/>
 ###
 
