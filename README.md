@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2019<br>📚 I'm currently learning Dart & Flutter <br>🎯 Work Hybrid & remotely .<br>🎲 Fevourite Tv Shows: Peaky Blinders</p>
+<p align="left">✨ Coding since 2019<br>📚 I'm currently learning Typescrits & Flutter <br>🎯 Work Hybrid & remotely .<br>🎲 Fevourite Tv Shows: Peaky Blinders</p>
 
 ###
 
